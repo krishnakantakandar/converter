@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Any Converter</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="dlengths">
+        <item>KILOMETER</item>
+        <item>HECTOMETER</item>
+        <item>DECAMETER</item>
+        <item>METER</item>
+        <item>DECIMETER</item>
+        <item>CENTIMETER</item>
+        <item>MILIMETER</item>
+        <item>MICROMETER</item>
+        <item>PICOMETER</item>
+        <item>LIGHTYEAR</item>
+    </string-array>
+    <string-array name="dtempreture">
+        <item>CELSIUS</item>
+        <item>KELVIN</item>
+        <item>FAHRENHEIT</item>
+    </string-array>
+    <string-array name="ddata">
+        <item>Bit</item>
+        <item>Nibble</item>
+        <item>Byte</item>
+        <item>Kilobyte</item>
+        <item>Megabyte</item>
+        <item>Gigabyte</item>
+        <item>Terabyte</item>
+    </string-array>
+    <string-array name="dvolumes">
+        <item>Cubic kilometer</item>
+        <item>Cubic hectometer</item>
+        <item>Cubic dekameter</item>
+        <item>Cubic meter</item>
+        <item>Cubic decimeter</item>
+        <item>Cubic centimeter</item>
+        <item>Cubic millimeter</item>
+
+        <item>Kiloliter</item>
+        <item>Hectoliter</item>
+        <item>Dekaliter</item>
+        <item>liter</item>
+        <item>Deciliter</item>
+        <item>Centiliter</item>
+        <item>Milliliter</item>
+
+
+    </string-array>
+    <string-array name="dareas">
+        <item>square kilometer</item>
+        <item>square hectometer</item>
+        <item>square dekameter</item>
+        <item>square meter</item>
+        <item>square decimeter</item>
+        <item>square centimeter</item>
+        <item>square millimeter</item>
+
+
+    </string-array>
+</resources>

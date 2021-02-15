@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/SAVED"
+            android:icon="@mipmap/resizelength1"
+            android:title="SAVED RESULT" />
+        <item android:id="@+id/rate"
+            android:icon="@mipmap/customer1"
+            android:title="RATE" />
+        <item android:id="@+id/share"
+              android:title="SHARE"/>
+
+
+    </group>
+    <item android:title="SUPPORT">
+        <menu>
+    <item android:id="@+id/about"
+        android:icon="@mipmap/manuser1"
+        android:title="ABOUT" />
+
+        </menu>
+    </item>
+</menu>
+
+
+
